@@ -1,5 +1,3 @@
-# Database Management Guide
-
 ## Part 1: Database Roles and Access Control
 
 ### What are Database Roles?
