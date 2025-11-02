@@ -1,5 +1,3 @@
-# Database Views - Complete Guide
-
 ## What are Database Views?
 
 ### Definition
