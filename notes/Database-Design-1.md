@@ -1,9 +1,3 @@
-# Database Design Notes
-
-**Instructor:** Lis Sulmont, Curriculum Manager
-
----
-
 ## Core Question: How Should We Organize and Manage Data?
 
 Key considerations:
